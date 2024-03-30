@@ -18,7 +18,7 @@
 
 <br/><br/>
 
-DS/ML portfolio website: **https://sugatagh.github.io/dsml/**
+Data Science and Machine Learning Portfolio Website: **https://sugatagh.github.io/dsml/**
 
 ## Education
 
