@@ -1,6 +1,4 @@
-# Sugata Ghosh
-
-_Research Fellow (pursuing PhD) at IISER Kolkata_ <br/><br/>
+# Sugata Ghosh, PhD
 
 [<img align="left" alt="Sugata Ghosh | Gmail" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />][gmail]
 
@@ -24,6 +22,9 @@ DS/ML portfolio website: **https://sugatagh.github.io/dsml/**
 
 ## Education
 
+> **Indian Institute of Science Education and Research Kolkata** `2018-2024`  
+> _Doctor of Philosophy in Statistics_
+
 > **Indian Institute of Technology Kanpur** `2015-2017`  
 > _Master of Science in Statistics_
 
@@ -32,8 +33,8 @@ DS/ML portfolio website: **https://sugatagh.github.io/dsml/**
 
 ## Experience
 
-> **Indian Institute of Science Education and Research Kolkata** `2018-Now`  
-> _Research Fellow (pursuing PhD) and Teaching Assistant_
+> **Indian Institute of Science Education and Research Kolkata** `2018-2024`  
+> _Research Fellow and Teaching Assistant_
 
 - **Research Focus:** Stochastic ordering.
 
@@ -111,9 +112,9 @@ _Organized by Xaverian Statistical Association under Department of Statistics, S
 
 ## Fellowship Programs
 
-> **TMLC Fellowship Program**  
-_Conducted by [**The Machine Learning Company**](https://www.themlco.com/)._
-> - Contributed to the **Conversational AI DeepPavlov** project. `2022-2023`
+> **TMLC Fellowship Program** `2022-2023`  
+_Conducted by [**The Machine Learning Company**](https://www.themlco.com/)._  
+Contributed to the **Conversational AI DeepPavlov** project.
 
 ## Data Science and Machine Learning Projects
 
@@ -176,7 +177,7 @@ _Jointly with [**Shyambhu Mukherjee**](https://www.linkedin.com/in/shyambhu-mukh
 
 ## Online Internships
 
-> **Machine Learning Internship Program**  
+> **Machine Learning Internship Program** `2022`  
 _Conducted by [**Uniconverge Technologies**](https://www.linkedin.com/company/uniconvergetechnologies/) and [**The IoT Academy**](https://www.theiotacademy.co/)._
 > - Detected duplication of points of interest in a dataset of over $1.5$ million place entries.
 > - Trained several algorithms and obtained test accuracy of $0.770$ with hyperparameter-tuned XGBoost classifier.
@@ -201,32 +202,32 @@ _Conducted by [**Uniconverge Technologies**](https://www.linkedin.com/company/un
 > - Studied how hobbies influence preferred movie genre of an individual. Checked bias due to gender and age-group.  
 > - Analyzed differences in preferring one factor for a movie's success over another across age-groups and gender.
 
-## Online Courses
+## Certifications
 
-> **Generative AI for Everyone**  
-_Authorized by DeepLearning.AI, offered by Coursera (2023)._  
+> **Generative AI for Everyone** `2023`  
+_Authorized by DeepLearning.AI, offered by Coursera._  
 **https://www.coursera.org/account/accomplishments/certificate/EV8T2EF4VUKN**
 
-> **Machine Learning Specialization**  
-_Authorized by Stanford University, offered by Coursera (2022)._  
+> **Machine Learning Specialization** `2022`  
+_Authorized by Stanford University, offered by Coursera._  
 **https://www.coursera.org/account/accomplishments/specialization/certificate/U2MZV5HWRG5L**
 
-> **Data Analyst in SQL Track**  
-_Offered by DataCamp (2022)._  
+> **Data Analyst in SQL Track** `2022`  
+_Offered by DataCamp._  
 **https://www.datacamp.com/statement-of-accomplishment/track/689ba9d0ab9984f55aac593e6caacd1f9d197194**
 
-> **IBM Data Science Specialization**  
-_Authorized by IBM, offered by Coursera (2022)._  
+> **IBM Data Science Specialization** `2022`  
+_Authorized by IBM, offered by Coursera._  
 **https://www.coursera.org/account/accomplishments/specialization/certificate/9V355HMT2FB6**
 
-> **Applied Data Science with Python**  
-_Offered by Electronics and ICT Academy, IIT Roorkee (2021)._  
+> **Applied Data Science with Python** `2021`  
+_Offered by Electronics and ICT Academy, IIT Roorkee._  
 **https://eict.iitr.ac.in/wp-content/uploads/L214613B669.jpg**
 
 ## Academic Courses
 
 > **Statistics**  
-Regression Analysis, Statistical Inference, Time-Series Analysis, Statistical Simulation and Data Analysis, Probabilistic Theory of Pattern Recognition, Multivariate Analysis, Analysis of Variance, Robust Statistical Methods, Nonparametric Inference, Non-linear Regression, Large Sample Theory, Sampling Theory.
+Regression Analysis, Statistical Inference, Time-Series Analysis, Statistical Simulation and Data Analysis, Probabilistic Theory of Pattern Recognition, Multivariate Analysis, Analysis of Variance, Robust Statistical Methods, Nonparametric Inference, Non-linear Regression, Large Sample Theory, Sampling Theory, Matrix Theory and Linear Estimation, Design of Experiments, Statistical Quality Control, Distributions Theory in Statistics, Population Statistics, Economic Statistics.
 
 > **Mathematics**  
 Real Analysis, Linear Algebra, Multivariable Calculus, Numerical Analysis, Complex Variables, Ergodic Theory, Introduction to Graph Theory, Measure theory.
