@@ -20,6 +20,20 @@
 
 Data Science and Machine Learning Portfolio Website: **https://sugatagh.github.io/dsml/**
 
+## Experience
+
+> **Ford Motor Company** `2024-Present`  
+> _Reliability Data Scientist_
+
+- **Department:** Global Data Insight and Analytics
+
+> **Indian Institute of Science Education and Research Kolkata** `2018-2024`  
+> _Research Fellow and Teaching Assistant_
+
+- **Research Focus:** Stochastic ordering
+
+- **Teaching Assistantship:** Served as Teaching Assistant for the courses Statistics I, Probability I, and Analysis I. Involved in conducting tutorial sessions, preparing question papers, and the grading process.
+
 ## Education
 
 > **Indian Institute of Science Education and Research Kolkata** `2018-2024`  
@@ -30,15 +44,6 @@ Data Science and Machine Learning Portfolio Website: **https://sugatagh.github.i
 
 > **University of Calcutta** `2012-2015`  
 > _Bachelor of Science in Statistics_
-
-## Experience
-
-> **Indian Institute of Science Education and Research Kolkata** `2018-2024`  
-> _Research Fellow and Teaching Assistant_
-
-- **Research Focus:** Stochastic ordering.
-
-- **Teaching Assistantship:** Served as Teaching Assistant for the courses Statistics I, Probability I, and Analysis I. Involved in conducting tutorial sessions, preparing question papers, and the grading process.
 
 ## Skills
 
